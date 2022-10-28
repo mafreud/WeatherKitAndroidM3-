@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeatherKit - Android</string>
+    <string name="button">FETCH DATA</string>
 </resources>
